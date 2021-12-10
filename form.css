@@ -1,0 +1,59 @@
+input,textarea,select{
+    display:block;
+    margin: 4px;
+    
+}
+.input-style{
+    width: 16.5em;
+    height: 2.5em;
+    border: none;
+    padding: .5em;
+}
+
+.inline{
+    display: inline; 
+}
+
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: green;
+/* font-family: 'Ubuntu', sans-serif; */
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+    margin: 0.5em 5px;
+}
+
+body{
+   margin: 2% 30%;
+   align-items: ;
+    background-color:#EFEFEF ;
+}
+
+.form-container{
+    box-shadow: 0 0 5px black;
+    background-color:rgb(203, 231, 203);
+    padding: 0.5em 3em;
+    border-radius: 5px;
+}
+textarea{
+    width: 16.5em;
+    height: 5em;
+    border: none;
+    padding: .5em;
+}
+
+.btn-apply{
+    background-color: blue;
+    color: white;
+    font-size: .85em;
+
+}
+.btn-reset{
+    background-color: green;
+    color: white;
+    font-size: .85em;
+
+}
